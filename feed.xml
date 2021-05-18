@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Tue, 18 May 2021 03:15:08 +0000</lastBuildDate>
+        
+        <item>
+            <title>Quarkus 1.13.4.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-4-final-released/
+            </link>
+            <description>
+                We just released 1.13.4.Final, a new maintenance release for the 1.13 release train. 1.13.4.Final is a safe upgrade for everyone using Quarkus 1.13. If you are not using 1.13 already, please refer to the 1.13 migration guide. What&#8217;s new? Full changelog You can get the full changelog of 1.13.4.Final on...
+            </description>
+            <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-4-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.0.Alpha2 released - Continuous Testing improvements</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha2-released/
+            </link>
+            <description>
+                We just released our second Alpha for Quarkus 2.0. We had a lot of feedback and Continuous Testing got a lot of fixes and improvements. Please keep the feedback coming! If you have missed our Alpha1 announcement: here are the main new features of Quarkus 2.0. Migration Guide We will...
+            </description>
+            <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha2-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13.3.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-3-final-released/
+            </link>
+            <description>
+                We just released 1.13.3.Final, a new maintenance release for the 1.13 release train. 1.13.3.Final is a safe upgrade for everyone using Quarkus 1.13. If you are not using 1.13 already, please refer to the 1.13 migration guide. What&#8217;s new? Full changelog You can get the full changelog of 1.13.3.Final on...
+            </description>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-3-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.0.Alpha1 released - Vert.x 4, MicroProfile 4 and Continuous Testing</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha1-released/
+            </link>
+            <description>
+                It is with a bit of emotion that I announce today the release of Quarkus 2.0.0.Alpha1. As previously presented, Quarkus 2.0 is in the continuity of Quarkus 1.x and won&#8217;t require too many changes on your side. But we consider it a major release as major parts of our infrastructure...
+            </description>
+            <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha1-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Solving problems with custom Quarkus extensions</title>
+            <link>
+                https://quarkus.io/blog/solving-problems-with-custom-extensions/
+            </link>
+            <description>
+                From time to time, I see tweets or articles claiming they don&#8217;t see the point of Quarkus because "who needs fast startup?", "I have plenty of memory" or "what is the point of live reload?". I could write an article debunking these arguments and explain how the latter makes your...
+            </description>
+            <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/solving-problems-with-custom-extensions/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Adding Eyecandy to your Quarkus App with React and Patternfly</title>
+            <link>
+                https://quarkus.io/blog/gui-react-patternfly/
+            </link>
+            <description>
+                A common pattern for containerized and distributed Quarkus applications is to serve as an efficient and scalable backend for a separate frontend application. In the Kubernetes world a frontend application could be a pure web layer pod such as React, Angular or Vue.js, delegating all REST calls to these Quarkus...
+            </description>
+            <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/gui-react-patternfly/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13.2.Final released - Oracle JDBC driver extension, bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-2-final-released/
+            </link>
+            <description>
+                We just released 1.13.2.Final, a new maintenance release for the 1.13 release train. As usual, this release fixes bugs and includes some documentation improvements but it also introduces a new extension for the Oracle JDBC driver. 1.13.2.Final is a safe upgrade for everyone using Quarkus 1.13. If you are not...
+            </description>
+            <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-2-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13.1.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-1-final-released/
+            </link>
+            <description>
+                It has been a week since the release of 1.13.0.Final so it is time for our traditional .1 release. 1.13.1.Final is a maintenance release fixing bugs and improving the documentation. 1.13.1.Final is a safe upgrade for everyone using Quarkus 1.13. If you are not using 1.13 already, please refer to...
+            </description>
+            <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-1-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13 released - DevServices, Kubernetes Service Binding, OpenTelemetry</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-0-final-released/
+            </link>
+            <description>
+                Today, we announce the availability of Quarkus 1.13.0.Final. This release brings several new features: DevServices simplifies testing with containers. OpenTelemetry is now supported via two new extensions. Kubernetes Service Binding simplifies the deployment on Kubernetes. We introduced a new MicroProfile REST Client based on RESTEasy Reactive. quarkus-jacoco can generate your...
+            </description>
+            <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-0-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Migrating existing applications to Quarkus with Migration Toolkit for Applications</title>
+            <link>
+                https://quarkus.io/blog/migrating-existing-apps-to-quarkus-with-mta/
+            </link>
+            <description>
+                The evolution of Java Java is a language that never ceases to impress me. From its conception, to the first Java Virtual Machines with the premise of “write once run anywhere”, to Tomcat or to the Enterprise Edition standards (whether J2EE, or Java EE) it’s an ever evolving language. With...
+            </description>
+            <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/migrating-existing-apps-to-quarkus-with-mta/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
